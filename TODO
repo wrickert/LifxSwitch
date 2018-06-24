@@ -1,1 +1,5 @@
 lookup boot pins
+
+
+if power resistors are incorrect use r1=4.7k r2=1.5k
+from https://www.digikey.com/reference-designs/en/ac-dc-and-dc-dc-conversion/dc-dc-smps-single-output/404
