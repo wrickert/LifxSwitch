@@ -1,0 +1,62 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SP0503BAHTG
+#
+DEF SP0503BAHTG D 0 40 Y N 1 L N
+F0 "D" 301 381 50 H V L BNN
+F1 "SP0503BAHTG" 302 -240 50 H V L BNN
+F2 "SOT192P237X122-4N" 0 0 50 H I L BNN
+F3 "F2715CT-ND" 0 0 50 H I L BNN
+F4 "SOT-143 Littelfuse" 0 0 50 H I L BNN
+F5 "Littelfuse" 0 0 50 H I L BNN
+F6 "SP050xBA Series 8 V 30 pF Uni-Directional SMT TVS Avalanche Diode Array SOT-143" 0 0 50 H I L BNN
+F7 "SP0503BAHTG" 0 0 50 H I L BNN
+F8 "https://www.digikey.com/product-detail/en/littelfuse-inc/SP0503BAHTG/F2715CT-ND/1154322?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 -100 0 35 0 N
+P 2 0 0 6 35 0 35 25 N
+P 2 0 0 6 35 25 75 0 N
+P 2 0 0 6 75 0 200 0 N
+P 2 0 0 6 75 0 35 -25 N
+P 2 0 0 6 35 -25 35 0 N
+P 2 0 0 6 75 20 75 0 N
+P 2 0 0 6 75 0 75 -20 N
+P 2 0 0 6 75 20 80 25 N
+P 2 0 0 6 70 -25 75 -20 N
+P 2 0 0 6 -100 100 35 100 N
+P 2 0 0 6 35 100 35 125 N
+P 2 0 0 6 35 125 75 100 N
+P 2 0 0 6 75 100 200 100 N
+P 2 0 0 6 75 100 35 75 N
+P 2 0 0 6 35 75 35 100 N
+P 2 0 0 6 75 120 75 100 N
+P 2 0 0 6 75 100 75 80 N
+P 2 0 0 6 75 120 80 125 N
+P 2 0 0 6 70 75 75 80 N
+P 2 0 0 6 -100 -100 35 -100 N
+P 2 0 0 6 35 -100 35 -75 N
+P 2 0 0 6 35 -75 75 -100 N
+P 2 0 0 6 75 -100 200 -100 N
+P 2 0 0 6 75 -100 35 -125 N
+P 2 0 0 6 35 -125 35 -100 N
+P 2 0 0 6 75 -80 75 -120 N
+P 2 0 0 6 75 -80 80 -75 N
+P 2 0 0 6 70 -125 75 -120 N
+P 2 0 0 6 -100 -100 -100 0 N
+P 2 0 0 6 -100 0 -100 100 N
+P 2 0 0 6 -100 0 -200 0 N
+P 2 0 0 10 -200 200 -200 -200 N
+P 2 0 0 10 -200 -200 200 -200 N
+P 2 0 0 10 200 -200 200 200 N
+P 2 0 0 10 200 200 -200 200 N
+X A 2 300 100 100 L 40 40 0 0 P 
+X B 3 300 -100 100 L 40 40 0 0 P 
+X C 4 300 0 100 L 40 40 0 0 P 
+X GND 1 -300 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

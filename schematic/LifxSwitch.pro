@@ -1,4 +1,4 @@
-update=Tue Jun 19 20:49:32 2018
+update=Sun Jun 24 22:11:53 2018
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/william/Documents/Projects/LifxSwitch/kicad-ESP8266/ESP8266.pretty
+LibDir=/home/william/Documents/Projects/LifxSwitch/footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -62,3 +62,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=kicad-ESP8266/ESP8266
+LibName34=CP2102N-A01-GQFN20
+LibName35=SP0503BAHTG
