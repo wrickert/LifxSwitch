@@ -712,7 +712,7 @@ F 3 "" H 4100 4400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4250 4400 4950 4400
+	4250 4400 5850 4400
 Connection ~ 4950 4400
 Wire Wire Line
 	2700 5400 3500 5400
@@ -827,13 +827,10 @@ Wire Wire Line
 Wire Wire Line
 	5650 5550 5650 5800
 Wire Wire Line
-	4950 4450 5850 4450
-Wire Wire Line
-	5850 4450 5850 5700
+	5850 4400 5850 5700
 Wire Wire Line
 	5850 5700 5650 5700
 Connection ~ 5650 5700
-Connection ~ 4950 4450
 Text GLabel 3500 4900 0    60   Input ~ 0
 TX
 Text GLabel 3500 5000 0    60   Input ~ 0
